@@ -1,9 +1,7 @@
-<div align="center">
   <h3>
     Hi there, I'm Nico
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxvdzg4bm93M3EwZGM4amNqbGt0ZWxicWM2ZW96OWlhbG95YzhtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="40"/>
   </h3>
-</div>
 💻 Computer Systems Engineering Student<br>
 📚 Currently learning Java, Python, and exploring databases with SQL Server<br>
 🚀 Interested in software development, applied electronics, cybersecurity, Artificial Intelligence (AI), and Machine Learning (ML).<br>
